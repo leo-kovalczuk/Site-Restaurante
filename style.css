@@ -10,7 +10,7 @@
 }
 
 body {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: var(--fonte-principal);
   background-color: #fff9f0;
   color: #333;
   padding: 20px;
