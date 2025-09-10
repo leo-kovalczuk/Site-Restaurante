@@ -52,13 +52,13 @@ footer {
 }
 .container-imagem{
     display: flex;
-    align-items: normal;
+    float: right;
     font-size: 24px;
 }
 .imagem{
     width: 50%;
     height: 50%;
-    border-radius: 40px;
+    border-radius: 24px;
 }
 nav ul {
     list-style: none;
