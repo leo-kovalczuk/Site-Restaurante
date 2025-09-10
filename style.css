@@ -50,3 +50,13 @@ footer {
   color: #777;
   margin-top: 40px;
 }
+.container-imagem{
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+}
+.imagem{
+    width: 50%;
+    height: 50%;
+    border-radius: 8px;
+}
