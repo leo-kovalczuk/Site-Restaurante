@@ -52,12 +52,11 @@ footer {
 }
 .container-imagem{
     display: flex;
-    align-items: last baseline;
+    align-items: self-start ;
     font-size: 24px;
 }
 .imagem{
     width: 50%;
     height: 50%;
     border-radius: 8px;
-    align-items: first baseline;
 }
