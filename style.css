@@ -52,7 +52,7 @@ footer {
 }
 .container-imagem{
     display: flex;
-    align-items: self-start ;
+    align-items: self-end ;
     font-size: 24px;
 }
 .imagem{
