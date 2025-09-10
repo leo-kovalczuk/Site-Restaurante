@@ -64,18 +64,15 @@ nav ul {
     list-style: none;
     margin-top: 20px;
 }
-
 nav ul li {
     display: inline;
     margin-right: 20px;
 }
-
 nav ul li a {
     color: rgb(32, 12, 1);
     text-decoration: none;
     font-size: 1.1em;
 }
-
 nav ul li a:hover {
     text-decoration: underline;
 }
