@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Story+Script&display=swap');
 
 :root{
      --fonte-principal: 'Permanent Marker', monospace;
-     --fonte-segundaria:
+     --fonte-segundaria: 'story script', monospace;
 }
 * {
   margin: 0;
@@ -11,13 +12,14 @@
 }
 
 body {
-  font-family: var(--fonte-principal);
+  font-family: var(--fonte-segundaria);
   background-color: #fff9f0;
   color: #333;
   padding: 20px;
 }
 
 header {
+  font-family: var(--fonte-principal);
   background-color: #8a4806;
   color: white;
   text-align: center;
