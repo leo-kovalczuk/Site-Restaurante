@@ -59,6 +59,7 @@ footer {
     font-size: 24px;
 }
 .imagem{
+    display: flex;
     width: 25%;
     height: 25%;
     border-radius: 24px;
