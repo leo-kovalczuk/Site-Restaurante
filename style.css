@@ -59,12 +59,11 @@ footer {
     font-size: 24px;
 }
 .imagem{
-    display: flex;
-    width: 25%;
-    height: 25%;
+    width: 35%;
+    height: 35%;
     border-radius: 24px;
     float: right;
-    margin-left: 190px;
+    margin-left: 240px;
 }
 .imagem2{
   width: 10%;
