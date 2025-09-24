@@ -54,7 +54,6 @@ footer {
   margin-top: 40px;
 }
 .container-imagem{
-  display:block;
     align-items: center;
     font-size: 24px;
 }
@@ -62,13 +61,11 @@ footer {
     width: 35%;
     height: 35%;
     border-radius: 24px;
-    float: right;
 }
 .imagem2{
   width: 10%;
   height: 10%;
   float: right;
-  margin-left: 700px;
 }
 nav ul {
     list-style: none;
