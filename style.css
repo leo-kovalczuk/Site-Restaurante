@@ -54,7 +54,7 @@ footer {
   margin-top: 40px;
 }
 .container-imagem{
-  display: flex;
+  display:block;
     align-items: center;
     font-size: 24px;
 }
